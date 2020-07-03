@@ -3,6 +3,7 @@ In this project data analysis and data visualization of wine quality is done.
 Here it contains 2 dataset for red and white wine respectively. 
 
 Data visualization and eda in done with 
+
 1)Bar plot
 
 2)Histogram 
@@ -18,6 +19,7 @@ Data visualization and eda in done with
 7)Scatter plot
 
 Machine learning algorithm used 
+
 1)Linear Regression 
 
 2)Logistic Regression 
