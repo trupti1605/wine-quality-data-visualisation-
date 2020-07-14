@@ -1,33 +1,34 @@
 # wine-quality-data-visualisation-
+### Introduction 
 In this project data analysis and data visualization of wine quality is done.
 Here it contains 2 dataset for red and white wine respectively. 
 
-Data visualization and eda in done with 
+- Data visualization and eda in done with 
 
-1)Bar plot
+  1)Bar plot
 
-2)Histogram 
+  2)Histogram 
 
-3)Heatmap 
+  3)Heatmap 
 
-4)Pairplot 
+  4)Pairplot 
 
-5)Boxplot 
+  5)Boxplot 
 
-6)Count plot 
+  6)Count plot 
 
-7)Scatter plot
+  7)Scatter plot
 
-Machine learning algorithm used 
+- Machine learning algorithm used 
 
-1)Linear Regression 
+  1)Linear Regression 
 
-2)Logistic Regression 
+  2)Logistic Regression 
 
-3)SVM
+  3)SVM
 
-4)Random Forest classifier 
+  4)Random Forest classifier 
 
-5)Naive Bayes 
+  5)Naive Bayes 
 
-6)Decision Tree Classifier 
+  6)Decision Tree Classifier 
