@@ -21,14 +21,12 @@ Here it contains 2 dataset for red and white wine respectively.
 
 - Machine learning algorithm used 
 
-  1)Linear Regression 
+  1)Logistic Regression 
 
-  2)Logistic Regression 
+  2)SVM
 
-  3)SVM
+  3)Random Forest classifier 
 
-  4)Random Forest classifier 
+  4)Naive Bayes 
 
-  5)Naive Bayes 
-
-  6)Decision Tree Classifier 
+  5)Decision Tree Classifier 
